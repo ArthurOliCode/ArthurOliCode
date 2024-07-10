@@ -3,7 +3,7 @@
 - 🔍 I’m interested in Back-end and Data science
 - 🌱 I’m currently learning Java, HTML5, CSS, JavaScript, C#, Python...
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm fan of FrontSoftware 🗡️🎮
+- ⚡ Fun fact: I'm fan of FromSoftware 🗡️🎮
 
 <!---
 ArthurOliCode/ArthurOliCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
