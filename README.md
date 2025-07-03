@@ -20,7 +20,11 @@
 > ## Profiles
 - [![static badge](https://img.shields.io/badge/Gmail-gray?style=flat&logo=Gmail&logoColor=%23EA4335&logoSize=auto&labelColor=gray&color=gray&cacheSeconds=3600&link=https%3A%2F%2Fsimpleicons.org%2F%3Fmodal%3Dicon%26q%3Dgmail)](arthur.rilber@gmail.com)
 - [![static badge](https://img.shields.io/badge/Linkedin-gray.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0NDggNTEyIj48IS0tIUZvbnQgQXdlc29tZSBGcmVlIDYuNy4yIGJ5IEBmb250YXdlc29tZSAtIGh0dHBzOi8vZm9udGF3ZXNvbWUuY29tIExpY2Vuc2UgLSBodHRwczovL2ZvbnRhd2Vzb21lLmNvbS9saWNlbnNlL2ZyZWUgQ29weXJpZ2h0IDIwMjUgRm9udGljb25zLCBJbmMuLS0+PHBhdGggZD0iTTQxNiAzMkgzMS45QzE0LjMgMzIgMCA0Ni41IDAgNjQuM3YzODMuNEMwIDQ2NS41IDE0LjMgNDgwIDMxLjkgNDgwSDQxNmMxNy42IDAgMzItMTQuNSAzMi0zMi4zVjY0LjNjMC0xNy44LTE0LjQtMzIuMy0zMi0zMi4zek0xMzUuNCA0MTZINjlWMjAyLjJoNjYuNVY0MTZ6bS0zMy4yLTI0M2MtMjEuMyAwLTM4LjUtMTcuMy0zOC41LTM4LjVTODAuOSA5NiAxMDIuMiA5NmMyMS4yIDAgMzguNSAxNy4zIDM4LjUgMzguNSAwIDIxLjMtMTcuMiAzOC41LTM4LjUgMzguNXptMjgyLjEgMjQzaC02Ni40VjMxMmMwLTI0LjgtLjUtNTYuNy0zNC41LTU2LjctMzQuNiAwLTM5LjkgMjctMzkuOSA1NC45VjQxNmgtNjYuNFYyMDIuMmg2My43djI5LjJoLjljOC45LTE2LjggMzAuNi0zNC41IDYyLjktMzQuNSA2Ny4yIDAgNzkuNyA0NC4zIDc5LjcgMTAxLjlWNDE2eiIvPjwvc3ZnPg==&logoColor=white&logoSize=20&labelColor=gray&color=gray&cacheSeconds=3600)](https://www.linkedin.com/in/arthur-oliveira-3a46a2289/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B6qzQWa%2BJTzG94l6Jnnv89g%3D%3D)
-
+---
+> [![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+> 
+> [![ArthurOliCode's stats](https://github-readme-stats.vercel.app/api?username=ArthurOliCode&show_icons=true&theme=radical)](https://github.com/ArthurOliCode/ArthurOliCode/edit/main/README.md)
+> 
 ![footer](https://github.com/ArthurOliCode/ArthurOliCode/blob/main/assets/footer-asset1.3.png?raw=true)
 <!---
 ArthurOliCode/ArthurOliCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
