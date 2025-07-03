@@ -14,6 +14,8 @@
 - ![static badge](https://img.shields.io/badge/MySQL-gray?style=flat&logo=MySQL&logoColor=white&logoSize=auto&labelColor=gray&color=gray&cacheSeconds=3600&link=https%3A%2F%2Fsimpleicons.org%2F%3Fmodal%3Dicon%26q%3Dmysql
 )
 - ![static badge](https://img.shields.io/badge/JavaScript-gray?style=flat&logo=JavaScript&logoColor=white&logoSize=auto&labelColor=gray&color=gray&cacheSeconds=3600&link=https%3A%2F%2Fsimpleicons.org%2F%3Fmodal%3Dicon%26q%3Djavascript)
+- ![static badge](https://img.shields.io/badge/PHP-gray?style=flat&logo=PHP&logoColor=white&logoSize=auto&labelColor=gray&color=gray&cacheSeconds=3600&link=https%3A%2F%2Fsimpleicons.org%2F%3Fmodal%3Dicon%26q%3Dphp
+)
 
 <!---
 ArthurOliCode/ArthurOliCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
