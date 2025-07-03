@@ -13,6 +13,7 @@
 - ![static badge](https://img.shields.io/badge/C%20sharp-black.svg?logo=data:image/svg%2bxml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IS0tIFVwbG9hZGVkIHRvOiBTVkcgUmVwbywgd3d3LnN2Z3JlcG8uY29tLCBHZW5lcmF0b3I6IFNWRyBSZXBvIE1peGVyIFRvb2xzIC0tPgo8c3ZnIHdpZHRoPSI4MDBweCIgaGVpZ2h0PSI4MDBweCIgdmlld0JveD0iMCAwIDE1IDE1IiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgo8cGF0aCBkPSJNOS41IDVWMTBNMTEuNSA1VjEwTTggNi41SDEzTTggOC41SDEzTTggMTBMNy41OTc4NyAxMC4yMDExQzcuMjA0NjkgMTAuMzk3NyA2Ljc3MTE0IDEwLjUgNi4zMzE1NiAxMC41QzQuNzY3NzMgMTAuNSAzLjUgOS4yMzIyNyAzLjUgNy42Njg0NFY3LjMzMTU2QzMuNSA1Ljc2NzczIDQuNzY3NzMgNC41IDYuMzMxNTYgNC41QzYuNzcxMTQgNC41IDcuMjA0NjkgNC42MDIzNSA3LjU5Nzg3IDQuNzk4OTRMOCA1TTEuNSAxMC41VjQuNUw3LjUgMUwxMy41IDQuNVYxMC41TDcuNSAxNEwxLjUgMTAuNVoiIHN0cm9rZT0iIzAwMDAwMCIvPgo8L3N2Zz4=&logoColor=white&logoSize=20&labelColor=gray&color=gray&cacheSeconds=3600)
 - ![static badge](https://img.shields.io/badge/MySQL-gray?style=flat&logo=MySQL&logoColor=white&logoSize=auto&labelColor=gray&color=gray&cacheSeconds=3600&link=https%3A%2F%2Fsimpleicons.org%2F%3Fmodal%3Dicon%26q%3Dmysql
 )
+- ![static badge](https://img.shields.io/badge/JavaScript-gray?style=flat&logo=JavaScript&logoColor=white&logoSize=auto&labelColor=gray&color=gray&cacheSeconds=3600&link=https%3A%2F%2Fsimpleicons.org%2F%3Fmodal%3Dicon%26q%3Djavascript)
 
 <!---
 ArthurOliCode/ArthurOliCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
