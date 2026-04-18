@@ -2,7 +2,7 @@
 ---
 > ## My personal aspects
   - 🔍 I’m interested in Back-end and Data science
-  - 🌱 I’m currently learning Java, HTML5, CSS, JavaScript, C#, Python...
+  - 🌱 I’m currently learning Spring Boot, React, Js, C#, Python...
   - ⚡ I'm fan of FromSoftware 🗡️🎮
   - :basketball: basket is life
 ---
