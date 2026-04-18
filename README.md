@@ -7,7 +7,7 @@
   - :basketball: basket is life
 ---
 > ## Technologies used
-[![My Skills](https://skillicons.dev/icons?i=java,php,js,html,css,react,mysql,py,cs,ps)](https://skillicons.dev)
+> [![My Skills](https://skillicons.dev/icons?i=java,php,js,html,css,react,mysql,py,cs,ps)](https://skillicons.dev)
 > ## IDEs
 > [![My Skills](https://skillicons.dev/icons?i=idea,pycharm)](https://skillicons.dev)
 ---
@@ -16,7 +16,7 @@
 > [![My Skills](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/arthurhenriqueoliveira).
 ---
 > [![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-> 
+> ---
 > [![ArthurOliCode's stats](https://github-readme-stats.vercel.app/api?username=ArthurOliCode&show_icons=true&theme=radical)](https://github.com/ArthurOliCode/ArthurOliCode/edit/main/README.md)
 > 
 <!---
