@@ -7,7 +7,7 @@
   - :basketball: basket is life
 ---
 > ## Technologies used
-> [![My Skills](https://skillicons.dev/icons?i=java,php,js,html,css,react,mysql,py,cs,ps)](https://skillicons.dev)
+> [![My Skills](https://skillicons.dev/icons?i=java,php,js,html,css,react,mysql,py,cs,ps,postman)](https://skillicons.dev)
 > ## IDEs
 > [![My Skills](https://skillicons.dev/icons?i=idea,pycharm)](https://skillicons.dev)
 ---
