@@ -15,7 +15,7 @@
 > [![My Skills](https://skillicons.dev/icons?i=gmail)](arthur.rilber@gmail.com).
 > [![My Skills](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/arthurhenriqueoliveira).
 ---
-> [![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurOliCode)
 > ---
 > [![ArthurOliCode's stats](https://github-readme-stats.vercel.app/api?username=ArthurOliCode&show_icons=true&theme=radical)](https://github.com/ArthurOliCode/ArthurOliCode/edit/main/README.md)
 > 
