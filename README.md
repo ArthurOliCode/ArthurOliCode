@@ -12,8 +12,8 @@
 > [![My Skills](https://skillicons.dev/icons?i=idea,pycharm)](https://skillicons.dev)
 ---
 > ## Profiles
-> [![My Skills](https://skillicons.dev/icons?i=gmail)](arthur.rilber@gmail.com).
-> [![My Skills](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/arthurhenriqueoliveira).
+> [![My Skills](https://skillicons.dev/icons?i=gmail)](arthur.rilber@gmail.com)
+> [![My Skills](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/arthurhenriqueoliveira)
 ---
 > ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurOliCode)
 > ---
