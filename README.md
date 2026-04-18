@@ -17,7 +17,7 @@
 ---
 > ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurOliCode)
 > ---
-> [![ArthurOliCode's stats](https://github-readme-stats.vercel.app/api?username=ArthurOliCode&show_icons=true&theme=radical)](https://github.com/ArthurOliCode/ArthurOliCode/edit/main/README.md)
+> [![ArthurOliCode's stats](https://github-readme-stats.vercel.app/api?username=ArthurOliCode&show_icons=true&theme=transparent)](https://github.com/ArthurOliCode/ArthurOliCode/edit/main/README.md)
 > 
 <!---
 ArthurOliCode/ArthurOliCode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
